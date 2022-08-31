@@ -1,0 +1,15 @@
+Locales['de'] = {
+	["menu_title"] = "Fahrwerk",
+	["menu_subtitle"] = "",
+	["not_enough_money"] = "Es ist zuwenig Geld auf dem Konto",
+	["front_track_width"] = "Spurbreite vorne",
+	["rear_track_width"] = "Spurbreite hinten",
+	["front_camber"] = "Sturz vorne",
+	["rear_camber"] = "Sturz hinten",
+	["wheel_size"] = "Felgendurchmesser",
+	["wheel_width"] = "Felgenbreite",
+	["apply"] = "Anwenden",
+	["apply_description"] = "Für %s$ anwenden",
+	["open_menu_hint"] = "Drücke ~INPUT_CONTEXT~ um das Fahrwerk anzupassen",
+	["apply_message"] = "Modifikationen wurden vorgenommen",
+};
